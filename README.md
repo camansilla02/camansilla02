@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning  Machine Learning
 
-💬 Ask me about SQL, Vue.JS, Oracle Apex
+💬 Ask me about SQL, Python, Vue.JS, Oracle Apex
 <!--
 **camansilla02/camansilla02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
