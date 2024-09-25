@@ -1,6 +1,6 @@
 ### [](https://github.com/camansilla02)  Hi there 👋
 
-🔭 I’m currently working on Angular projects
+🔭 I’m currently working on Machine learning projects
 
 🌱 I’m currently learning  Machine Learning
 
