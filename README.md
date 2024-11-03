@@ -1,7 +1,7 @@
 ### [](https://github.com/camansilla02)  Christopher  
 ---
-> Aspiring Cyber Security engineer with a background in software development and data analytics
-> Optimizing processes through software, scripts, and backend automation.
+> Aspiring Cyber Security engineer with a background in software development and data analytics\
+Optimizing processes through software, scripts, and backend automation.
 
 
 🔭 I’m currently working on Machine learning projects
