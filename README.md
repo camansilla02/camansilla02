@@ -5,6 +5,25 @@
 🌱 I’m currently learning  Machine Learning
 
 💬 Ask me about SQL, Python, Vue.JS, Oracle Apex
+<div class="row">
+<img src="https://api.iconify.design/logos/javascript.svg" style="width: 35px; height:35px;"/>
+<img src="https://api.iconify.design/devicon/html5-wordmark.svg" style="width: 50px; height: 45px;"/>
+<img src="https://api.iconify.design/vscode-icons/file-type-css.svg" style="width: 50px; height: 40px;"/>
+<img src="https://api.iconify.design/devicon/jquery-wordmark.svg" style="width: 50px; height: 40px;"/>
+<img src="https://api.iconify.design/vscode-icons/file-type-vue.svg" style="width: 50px; height: 40px;"/>
+<img src="https://api.iconify.design/devicon/angular.svg" style="width: 50px; height: 40px;"/>
+<img src="https://api.iconify.design/vscode-icons/file-type-node.svg" style="width: 50px; height: 40px;"/>
+<img src="https://api.iconify.design/logos/mysql.svg" style="width: 50px; height: 50px;"/>
+<img src="https://api.iconify.design/devicon/postgresql-wordmark.svg" style="width: 50px; height: 40px;"/>
+<img src="https://api.iconify.design/logos/python.svg" style="width: 35px; height:35px;"/>
+<img src="https://api.iconify.design/skill-icons/java-light.svg" style="width: 35px; height:35px;"/>
+<img src="https://api.iconify.design/logos/linux-tux.svg" style="width: 35px; height:35px;"/>
+<img src="https://api.iconify.design/devicon/git.svg" style="width: 50px; height: 40px;"/>
+<img src="https://api.iconify.design/file-icons/tortoisesvn.svg" style="width: 50px; height: 40px;"/>
+<img src="https://api.iconify.design/simple-icons/snort.svg" style="width: 50px; height: 40px;"/>
+<img src="https://api.iconify.design/simple-icons/wireshark.svg" style="width: 50px; height: 40px;"/>
+</div>
+
 <!--
 **camansilla02/camansilla02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
