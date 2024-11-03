@@ -24,7 +24,6 @@ Optimizing processes through software, scripts, and backend automation.
 <img src="https://api.iconify.design/skill-icons/java-light.svg" style="width: 35px; height:35px;"/>
 <img src="https://api.iconify.design/logos/linux-tux.svg" style="width: 35px; height:35px;"/>
 <img src="https://api.iconify.design/devicon/git.svg" style="width: 50px; height: 40px;"/>
-<img src="https://api.iconify.design/file-icons/tortoisesvn.svg" style="width: 50px; height: 40px;"/>
 <img src="https://api.iconify.design/skill-icons/docker.svg" style="width: 50px; height: 40px;"/>
 <img src="https://api.iconify.design/simple-icons/snort.svg" style="width: 50px; height: 40px;"/>
 <img src="https://api.iconify.design/simple-icons/wireshark.svg" style="width: 50px; height: 40px;"/>
