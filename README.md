@@ -1,4 +1,4 @@
-### [](https://github.com/camansilla02)  Chris
+### [](https://github.com/camansilla02)  🧑‍🎨 Chris
 ---
 > Aspiring Cyber Security engineer with a background in software development and data analytics\
 Optimizing processes through software, scripts, and backend automation.
